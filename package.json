@@ -1,0 +1,16 @@
+{
+  "name": "notion-to-words-quiz",
+  "version": "0.1.0",
+  "description": "Mini web app for building language learning flows from Notion lesson pages.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
